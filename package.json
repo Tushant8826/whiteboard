@@ -1,0 +1,20 @@
+{
+  "name": "pepboard",
+  "version": "1.0.0",
+  "main": "express.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon express"
+  },
+  "repository": {
+    "type": "git"
+  },
+  "keywords": [],
+  "author": "tushant",
+  "license": "ISC",
+  "description": ""
+}
